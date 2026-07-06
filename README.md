@@ -113,17 +113,6 @@ The application will start on your local development server.
 * Integrate Unity with a modern web application.
 * Provide a responsive and user-friendly interface.
 
----
-
-## 📸 Screenshots
-
-Add screenshots of:
-
-* Home Page
-* Login Page
-* VR Experience
-* Statistics Dashboard
-* Unity Integration
 
 ---
 
